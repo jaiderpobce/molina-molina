@@ -123,7 +123,7 @@ input, select, textarea {
 		}
 
 	b, strong {
-		font-weight: 600;
+		font-weight: 500;
 		color: #3e3e3e;
 	}
 
@@ -164,13 +164,13 @@ input, select, textarea {
 	}
 
 	h1 {
-		font-size: 3.25em;
+		font-size: 2.9em;
 		letter-spacing: -0.090em;
 		font-weight: 200;
 	}
 
 		h1 strong {
-			font-weight: 200;
+			font-weight: 150;
 			line-height: 1em; 
 		}
 
